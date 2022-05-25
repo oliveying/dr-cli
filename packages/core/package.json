@@ -1,6 +1,6 @@
 {
   "name": "@dr-cli-dev/core",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "dr-cli-dev core",
   "author": "dr",
   "homepage": "",
@@ -17,7 +17,7 @@
     "test": "echo \"Error: run tests from root\""
   },
   "dependencies": {
-    "@dr-cli-dev/utils": "^1.0.1"
+    "@dr-cli-dev/utils": "^1.0.2"
   },
   "gitHead": "83e575fa8d4fec9d4537185a2a8f95290de71bd7",
   "publishConfig": {
