@@ -20,3 +20,10 @@ lerna publish
     "access": "public"
   }
 ```
+
+## 拆分原则
+根据模块功能拆分
+* 核心模块 core
+* 命令模块 commands
+* 模型模块： models
+* 工具模块： utils

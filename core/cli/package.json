@@ -17,7 +17,9 @@
     "test": "echo \"Error: run tests from root\""
   },
   "dependencies": {
-    "@dr-cli-dev/utils": "^1.0.2"
+    "@dr-cli-dev/utils": "file:../utils/utils",
+    "import-local": "^3.1.0",
+    "npmlog": "^6.0.2"
   },
   "gitHead": "83e575fa8d4fec9d4537185a2a8f95290de71bd7",
   "publishConfig": {
